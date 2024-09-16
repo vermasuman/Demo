@@ -1,2 +1,3 @@
 This note friends file.
 This is second line added.
+Hi I am adding 3rd line.
